@@ -1,7 +1,7 @@
 create database customer_behaviour;
 
-CREATE USER 'prajjawal__03'@'localhost' IDENTIFIED BY '10242048';
-GRANT ALL PRIVILEGES ON customer_behaviour.* TO 'prajjawal__03'@'localhost';
+CREATE USER 'aditya__123'@'localhost' IDENTIFIED BY '10242048';
+GRANT ALL PRIVILEGES ON customer_behaviour.* TO 'aditya__123'@'localhost';
 FLUSH PRIVILEGES;
 
 use customer_behaviour;
